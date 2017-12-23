@@ -11,13 +11,13 @@ Python 3 text based Tic-Tac-Toe.
 ## Usage 
 This game requires two human players. The board is represented as a 3x3 grid with numbers indicating their space loaction.
 
- - - - - - - - - - 
+
 |  1  |  2  |  3 |
- - - - - - - - - - 
+
 |  4  |  5  |  6 |
- - - - - - - - - - 
+
 |  7  |  8  |  9 |
- - - - - - - - - - 
+
 The game begins with asking what marker player one will be, X or 0. Whatever option is not chosen will automatically be assigned to player 2. To place a marker during a turn simply enter the numbered space and on the following turn that space will be marked. 
 
 ### Winning 
