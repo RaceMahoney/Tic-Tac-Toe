@@ -1,8 +1,10 @@
 # Tic-Tac-Toe
-Python 3 text based Tic-Tac-Toe game using methods, loops, data structures and object functions
+Python 3 text based Tic-Tac-Toe.
 
-## How to Run
-* Clone or download repository
-* Open a terminal and run with `python TicTacToe`
 ## Requirements
-* Python 3 installed on your machine
+* Python 3
+
+## Installation 
+* Clone repository to local machine using `git clone`
+* Run with `python TicTacToe`
+ 
